@@ -1,2 +1,2 @@
 # Proyecto Final
-## Proyecto basado en un sistema de comanads hecho en python
+## Proyecto basado en un sistema de comandas hecho en python
